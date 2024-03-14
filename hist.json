@@ -1,0 +1,354 @@
+[
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 1300,
+        "total_balance": 2600.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": -1300,
+        "total_balance": 1300.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "hello",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "hello",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "hello",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "debit",
+        "status": "failure",
+        "amount_of_deposit": "12",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": "1300",
+        "total_balance": 2600.0
+    },
+    {
+        "operation_type": "debit",
+        "status": "success",
+        "amount_of_deposit": "100",
+        "total_balance": 1300.0
+    },
+    {
+        "operation_type": "debit",
+        "status": "success",
+        "amount_of_deposit": "100",
+        "total_balance": 1200.0
+    },
+    {
+        "operation_type": "debit",
+        "status": "failure",
+        "amount_of_deposit": "-100",
+        "total_balance": 1100.0
+    },
+    {
+        "operation_type": "debit",
+        "status": "failure",
+        "amount_of_deposit": "hello",
+        "total_balance": 1100.0
+    },
+    {
+        "operation_type": "exchange",
+        "status": "failure",
+        "pre_exchange_amount": "1200",
+        "exchange_amount": null,
+        "currency_from": "USD",
+        "currency_to": "GBT"
+    },
+    {
+        "operation_type": "exchange",
+        "status": "success",
+        "pre_exchange_amount": "1200",
+        "exchange_amount": 918.2608695652174,
+        "currency_from": "USD",
+        "currency_to": "GBP"
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": 50.0,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "invalid",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 100.0,
+        "total_balance": 100.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 50.0,
+        "total_balance": 50.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": -50.0,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "invalid",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 100.0,
+        "total_balance": 100.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": 50.0,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "invalid",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 100.0,
+        "total_balance": 100.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 50.0,
+        "total_balance": 50.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": -50.0,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "invalid",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 100.0,
+        "total_balance": 100.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 100.0,
+        "total_balance": 100.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": -50.0,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "invalid",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 100.0,
+        "total_balance": 100.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 50.0,
+        "total_balance": 50.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": 50.0,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": 50.0,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "invalid",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": 50.0,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "invalid",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 100,
+        "total_balance": 100
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 50.0,
+        "total_balance": 50.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": -50,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "invalid",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 100,
+        "total_balance": 100
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": 50.0,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "invalid",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 100,
+        "total_balance": 100
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 50.0,
+        "total_balance": 50.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": -50,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "invalid",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 100,
+        "total_balance": 100
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": -50,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": -50,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": 50.0,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "invalid",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 100,
+        "total_balance": 100
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 50.0,
+        "total_balance": 50.0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": -50,
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "failure",
+        "amount_of_deposit": "invalid",
+        "total_balance": 0
+    },
+    {
+        "operation_type": "deposit",
+        "status": "success",
+        "amount_of_deposit": 100,
+        "total_balance": 100
+    }
+]
